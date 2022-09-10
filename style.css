@@ -1,0 +1,60 @@
+body{
+    background-color:darkslategrey;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0%;
+    padding: 3px;;
+    color:white;
+  }
+  
+img {
+    height: 400px;
+    width: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+.header1box {
+    position: relative;
+    padding-bottom: 40px;
+    padding-top: 10px;
+  }
+.header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h1 {
+    text-align: center;
+  }
+  
+label,
+input,
+  value {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    border: 2px;
+    border-color: black;
+  }
+  
+.menu {
+    position: relative;
+    padding-top: 15px;
+    text-align: center;
+  }
+#search_movies {
+    right: 0;
+    background-color:rgb(181, 167, 167);
+  }
+
+.container {
+      position: relative;
+      background-color:darkslategray;
+      padding-left: 5%;
+      padding-right: auto;
+      padding-top: 20px;
+  }
